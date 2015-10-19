@@ -1,18 +1,6 @@
 omniauth-gplus
 =========
 
-[![Gem Version](http://img.shields.io/gem/v/omniauth-gplus.svg)][gem]
-[![Code Climate](http://img.shields.io/codeclimate/github/samdunne/omniauth-gplus.svg)][codeclimate]
-[![Build Status](http://img.shields.io/travis/samdunne/omniauth-gplus.svg)][travis]
-[![Dependency Status](http://img.shields.io/gemnasium/samdunne/omniauth-gplus.svg)][gemnasium]
-[![Gittip](http://img.shields.io/gittip/samdunne_.svg)][gittip]
-
-[gem]: https://rubygems.org/gems/omniauth-gplus
-[codeclimate]: https://codeclimate.com/github/samdunne/omniauth-gplus
-[travis]: https://travis-ci.org/samdunne/omniauth-gplus
-[gemnasium]: https://gemnasium.com/samdunne/omniauth-gplus
-[gittip]: https://www.gittip.com/samdunne_
-
 `omniauth-gplus` is a Google+ strategy for OmniAuth.
 It allows you to easily interact with the Google+ OAuth2 endpoint.
 
